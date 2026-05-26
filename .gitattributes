@@ -1,0 +1,4 @@
+*.h linguist-language=Go
+*.c linguist-language=Go
+*.cpp linguist-language=Go
+*.idl linguist-language=Go
